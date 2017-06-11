@@ -1,0 +1,25 @@
+{
+  "name": "road2nodejs",
+  "version": "0.0.1",
+  "description": "學習 nodejs 的一大堆範例",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "bin": {},
+  "keywords": [
+    "koa",
+    "async",
+    "await"
+  ],
+  "homepage": "https://github.com/ccckmit/road2nodejs",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ccckmit/road2nodejs.git"
+  },
+  "author": {
+    "name": "Chung-Chen Chen",
+    "email": "ccckmit@gmail.com"
+  },
+  "license": "MIT"
+}
