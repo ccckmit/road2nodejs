@@ -3,15 +3,13 @@
   "version": "0.0.1",
   "description": "學習 nodejs 的一大堆範例",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "jimp": "^0.2.28"
+  },
   "devDependencies": {},
   "scripts": {},
   "bin": {},
-  "keywords": [
-    "koa",
-    "async",
-    "await"
-  ],
+  "keywords": [],
   "homepage": "https://github.com/ccckmit/road2nodejs",
   "repository": {
     "type": "git",

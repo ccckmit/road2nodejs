@@ -4,6 +4,26 @@ The package manager for Windows
 
 https://chocolatey.org
 
+另一個類似的軟體是 scoop, 需要用 powershell, 你需要用系統管理員模式登入 cmd
+
+http://scoop.sh/
+
+但是我安裝失敗
+
+```
+PS C:\WINDOWS\system32> scoop help
+scoop : 無法辨識 'scoop' 詞彙是否為 Cmdlet、函數、指令檔或可執行程式的名稱。請
+檢查名稱拼字是否正確，如果包含路徑的話，請確認路徑是否正確，然後再試一次。
+位於 線路:1 字元:1
++ scoop help
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (scoop:String) [], ParentContain
+   sErrorRecordException
+    + FullyQualifiedErrorId : CommandNotFoundException
+```
+
+
+
 ## 安裝
 
 
